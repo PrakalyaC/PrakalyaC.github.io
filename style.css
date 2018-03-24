@@ -1,0 +1,12 @@
+
+
+body {
+
+    background-image: url("green_bgnd.jpg");
+    background-size: cover;
+    width: 100%;
+    margin: -5px 0 0 -5px;
+    height: 1500px;
+    position: relative;
+
+}
